@@ -12,7 +12,7 @@ Running Android .apk file on harmonyos Next .
 
 #### 虚拟机方案选择
 
-#### 方案1：全量代理 植入aosp framwork层
+#### 方案1:全量代理 植入aosp framwork层
 
 通过对apk的代理，将四大组件注册到植入的framework层完全代理，让apk感觉自己运行在安卓系统中。
 
@@ -20,6 +20,6 @@ Running Android .apk file on harmonyos Next .
 
 通过资源重组的方式，将apk文件转化成等效的hap文件。
 
-#### 方案3：直接qemu运行虚拟系统
+#### 方案3:直接qemu运行虚拟系统
 
 使用qemu载入一个裁剪版本的Android OS系统来运行apk文件。
