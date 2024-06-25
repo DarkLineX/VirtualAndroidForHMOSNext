@@ -23,3 +23,6 @@ Running Android .apk file on harmonyos Next .
 #### 方案3:直接qemu运行虚拟系统
 
 使用qemu载入一个裁剪版本的Android OS系统来运行apk文件。
+
+
+综合考虑下来方案3是最合适的方案。
