@@ -1,9 +1,18 @@
 # VirtualAndroidForHMOSNext
+
 Running Android .apk file on harmonyos Next . 
 
 在您的鸿蒙Next系统上流畅的运行 .apk 安卓应用
 
 如果你需要用安卓运行鸿蒙应用请前往这个项目>>[VirtualHMOSNextForAndroid](https://github.com/Eeeextend/VirtualHMOSNextForAndroid)
+
+
+### 计划有变，准备放弃开发
+
+如果新版纯血鸿蒙自带安卓虚拟机的话，那这个项目没必要开发了。
+
+![x](https://img.picui.cn/free/2024/08/28/66cf122d27ceb.png)
+
 
 ### 提示
 
